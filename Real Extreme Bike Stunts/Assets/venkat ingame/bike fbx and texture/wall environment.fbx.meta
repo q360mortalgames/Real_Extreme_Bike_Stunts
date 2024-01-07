@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: dad3af07f7a6b7245a5129e0732fabc1
+timeCreated: 1517475127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: concrete_ground
+    100002: concrete_ground1
+    100004: concrete_surface
+    100006: iron
+    100008: pipe
+    100010: pipe 1
+    100012: pipe_copy
+    100014: pipe_curve
+    100016: pipe_long
+    100018: //RootNode
+    100020: wall1
+    100022: wall2
+    100024: wall3
+    100026: wall4
+    400000: concrete_ground
+    400002: concrete_ground1
+    400004: concrete_surface
+    400006: iron
+    400008: pipe
+    400010: pipe 1
+    400012: pipe_copy
+    400014: pipe_curve
+    400016: pipe_long
+    400018: //RootNode
+    400020: wall1
+    400022: wall2
+    400024: wall3
+    400026: wall4
+    2100000: environment_all_environment_all1_lambert22
+    2100002: environment_all_environment_all1_tracks1
+    2100004: environment_all_environment_all1_small_obstacles
+    2300000: concrete_ground
+    2300002: concrete_ground1
+    2300004: concrete_surface
+    2300006: iron
+    2300008: pipe 1
+    2300010: pipe_copy
+    2300012: pipe_curve
+    2300014: pipe_long
+    2300016: wall1
+    2300018: wall2
+    2300020: wall3
+    2300022: wall4
+    3300000: concrete_ground
+    3300002: concrete_ground1
+    3300004: concrete_surface
+    3300006: iron
+    3300008: pipe 1
+    3300010: pipe_copy
+    3300012: pipe_curve
+    3300014: pipe_long
+    3300016: wall1
+    3300018: wall2
+    3300020: wall3
+    3300022: wall4
+    4300000: wall1
+    4300002: concrete_ground
+    4300004: wall2
+    4300006: concrete_ground1
+    4300008: wall3
+    4300010: wall4
+    4300012: concrete_surface
+    4300014: pipe_long
+    4300016: pipe_copy
+    4300018: pipe_curve
+    4300020: pipe
+    4300022: iron
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
